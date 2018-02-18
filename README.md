@@ -1,4 +1,4 @@
-# Dynamic Programming
+# Dynamic Programming [![Build Status](https://travis-ci.org/lbsx/dynamic-programming.svg?branch=master)](https://travis-ci.org/lbsx/dynamic-programming)
 
 Chapter 15 of Introduction to Algorithms 3rd Edition is about *Dynamic
 Programming*. Rod cutting and matrix multiplication are two problems
