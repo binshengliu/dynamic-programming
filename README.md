@@ -52,7 +52,8 @@ in Python.
 #### Optimal substructure
 
 -   An optimal solution to a problem is constructed from optimal
-    solutions to subproblems in a **recursive** manner.
+    solutions to **independent** subproblems in a **recursive**
+    manner.
 -   A common pattern for discovering an optimal substructure.
     1.  Show that the solution consists of making a choice, which
         leaves one or more subproblems to be solved.
